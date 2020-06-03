@@ -10,3 +10,6 @@ This is a test.
 __Welcome to my test.__
 _How do you like my test?_
 Thank you for looking at my test. 
+Here's a cozy picture for you.
+
+<img src="./sno.png"/>
